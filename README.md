@@ -1,1 +1,1 @@
-# fuse_detector
+# FuseDetector
